@@ -1,0 +1,168 @@
+{"_id":{"$oid":"5ff5e9f48bbbba12019d2d3b"},"Region":"Sub-Saharan Africa","ItemType":"Cosmetics","SalesChannel":"Online","count":10965}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d3c"},"Region":"Europe","ItemType":"Beverages","SalesChannel":"Offline","count":10956}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d3d"},"Region":"Sub-Saharan Africa","ItemType":"Snacks","SalesChannel":"Offline","count":10955}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d3e"},"Region":"Sub-Saharan Africa","ItemType":"Vegetables","SalesChannel":"Online","count":10954}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d3f"},"Region":"Europe","ItemType":"Clothes","SalesChannel":"Online","count":10917}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d40"},"Region":"Sub-Saharan Africa","ItemType":"Fruits","SalesChannel":"Offline","count":10905}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d41"},"Region":"Sub-Saharan Africa","ItemType":"Clothes","SalesChannel":"Offline","count":10904}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d42"},"Region":"Sub-Saharan Africa","ItemType":"Clothes","SalesChannel":"Online","count":10896}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d43"},"Region":"Europe","ItemType":"Fruits","SalesChannel":"Online","count":10882}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d44"},"Region":"Europe","ItemType":"Cereal","SalesChannel":"Online","count":10882}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d45"},"Region":"Europe","ItemType":"Personal Care","SalesChannel":"Offline","count":10881}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d46"},"Region":"Sub-Saharan Africa","ItemType":"Personal Care","SalesChannel":"Online","count":10878}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d47"},"Region":"Europe","ItemType":"Fruits","SalesChannel":"Offline","count":10876}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d48"},"Region":"Sub-Saharan Africa","ItemType":"Household","SalesChannel":"Offline","count":10865}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d49"},"Region":"Sub-Saharan Africa","ItemType":"Personal Care","SalesChannel":"Offline","count":10865}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d4a"},"Region":"Sub-Saharan Africa","ItemType":"Beverages","SalesChannel":"Online","count":10853}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d4b"},"Region":"Europe","ItemType":"Office Supplies","SalesChannel":"Online","count":10845}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d4c"},"Region":"Sub-Saharan Africa","ItemType":"Beverages","SalesChannel":"Offline","count":10839}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d4d"},"Region":"Europe","ItemType":"Cereal","SalesChannel":"Offline","count":10823}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d4e"},"Region":"Europe","ItemType":"Baby Food","SalesChannel":"Offline","count":10819}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d4f"},"Region":"Sub-Saharan Africa","ItemType":"Vegetables","SalesChannel":"Offline","count":10815}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d50"},"Region":"Sub-Saharan Africa","ItemType":"Meat","SalesChannel":"Online","count":10815}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d51"},"Region":"Sub-Saharan Africa","ItemType":"Household","SalesChannel":"Online","count":10811}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d52"},"Region":"Sub-Saharan Africa","ItemType":"Cereal","SalesChannel":"Online","count":10806}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d53"},"Region":"Sub-Saharan Africa","ItemType":"Office Supplies","SalesChannel":"Online","count":10801}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d54"},"Region":"Europe","ItemType":"Beverages","SalesChannel":"Online","count":10800}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d55"},"Region":"Europe","ItemType":"Household","SalesChannel":"Online","count":10799}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d56"},"Region":"Sub-Saharan Africa","ItemType":"Baby Food","SalesChannel":"Online","count":10797}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d57"},"Region":"Europe","ItemType":"Meat","SalesChannel":"Online","count":10791}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d58"},"Region":"Europe","ItemType":"Baby Food","SalesChannel":"Online","count":10786}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d59"},"Region":"Sub-Saharan Africa","ItemType":"Baby Food","SalesChannel":"Offline","count":10780}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d5a"},"Region":"Sub-Saharan Africa","ItemType":"Snacks","SalesChannel":"Online","count":10771}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d5b"},"Region":"Europe","ItemType":"Vegetables","SalesChannel":"Offline","count":10770}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d5c"},"Region":"Europe","ItemType":"Snacks","SalesChannel":"Online","count":10767}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d5d"},"Region":"Sub-Saharan Africa","ItemType":"Office Supplies","SalesChannel":"Offline","count":10764}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d5e"},"Region":"Europe","ItemType":"Clothes","SalesChannel":"Offline","count":10763}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d5f"},"Region":"Sub-Saharan Africa","ItemType":"Meat","SalesChannel":"Offline","count":10758}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d60"},"Region":"Europe","ItemType":"Personal Care","SalesChannel":"Online","count":10753}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d61"},"Region":"Sub-Saharan Africa","ItemType":"Cosmetics","SalesChannel":"Offline","count":10748}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d62"},"Region":"Europe","ItemType":"Cosmetics","SalesChannel":"Online","count":10725}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d63"},"Region":"Europe","ItemType":"Office Supplies","SalesChannel":"Offline","count":10724}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d64"},"Region":"Sub-Saharan Africa","ItemType":"Cereal","SalesChannel":"Offline","count":10718}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d65"},"Region":"Europe","ItemType":"Meat","SalesChannel":"Offline","count":10712}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d66"},"Region":"Europe","ItemType":"Household","SalesChannel":"Offline","count":10707}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d67"},"Region":"Europe","ItemType":"Cosmetics","SalesChannel":"Offline","count":10698}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d68"},"Region":"Europe","ItemType":"Snacks","SalesChannel":"Offline","count":10696}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d69"},"Region":"Sub-Saharan Africa","ItemType":"Fruits","SalesChannel":"Online","count":10690}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d6a"},"Region":"Europe","ItemType":"Vegetables","SalesChannel":"Online","count":10664}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d6b"},"Region":"Asia","ItemType":"Snacks","SalesChannel":"Offline","count":6224}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d6c"},"Region":"Asia","ItemType":"Baby Food","SalesChannel":"Online","count":6183}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d6d"},"Region":"Asia","ItemType":"Fruits","SalesChannel":"Online","count":6171}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d6e"},"Region":"Asia","ItemType":"Meat","SalesChannel":"Offline","count":6150}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d6f"},"Region":"Asia","ItemType":"Cosmetics","SalesChannel":"Offline","count":6146}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d70"},"Region":"Asia","ItemType":"Snacks","SalesChannel":"Online","count":6132}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d71"},"Region":"Asia","ItemType":"Office Supplies","SalesChannel":"Offline","count":6128}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d72"},"Region":"Asia","ItemType":"Cereal","SalesChannel":"Offline","count":6103}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d73"},"Region":"Asia","ItemType":"Meat","SalesChannel":"Online","count":6094}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d74"},"Region":"Asia","ItemType":"Vegetables","SalesChannel":"Offline","count":6086}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d75"},"Region":"Asia","ItemType":"Personal Care","SalesChannel":"Online","count":6081}
+{"_id":{"$oid":"5ff5e9f58bbbba12019d2d76"},"Region":"Asia","ItemType":"Personal Care","SalesChannel":"Offline","count":6077}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2d77"},"Region":"Asia","ItemType":"Household","SalesChannel":"Online","count":6073}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2d78"},"Region":"Asia","ItemType":"Vegetables","SalesChannel":"Online","count":6062}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2d79"},"Region":"Asia","ItemType":"Clothes","SalesChannel":"Online","count":6060}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2d7a"},"Region":"Asia","ItemType":"Clothes","SalesChannel":"Offline","count":6059}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2d7b"},"Region":"Asia","ItemType":"Fruits","SalesChannel":"Offline","count":6050}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2d7c"},"Region":"Asia","ItemType":"Cereal","SalesChannel":"Online","count":6050}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2d7d"},"Region":"Asia","ItemType":"Household","SalesChannel":"Offline","count":6043}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2d7e"},"Region":"Asia","ItemType":"Cosmetics","SalesChannel":"Online","count":6035}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2d7f"},"Region":"Asia","ItemType":"Beverages","SalesChannel":"Offline","count":6017}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2d80"},"Region":"Asia","ItemType":"Beverages","SalesChannel":"Online","count":6013}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2d81"},"Region":"Asia","ItemType":"Office Supplies","SalesChannel":"Online","count":6000}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2d82"},"Region":"Asia","ItemType":"Baby Food","SalesChannel":"Offline","count":5980}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2d83"},"Region":"Middle East and North Africa","ItemType":"Household","SalesChannel":"Online","count":5313}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2d84"},"Region":"Middle East and North Africa","ItemType":"Office Supplies","SalesChannel":"Offline","count":5248}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2d85"},"Region":"Middle East and North Africa","ItemType":"Cereal","SalesChannel":"Offline","count":5248}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2d86"},"Region":"Middle East and North Africa","ItemType":"Meat","SalesChannel":"Offline","count":5247}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2d87"},"Region":"Middle East and North Africa","ItemType":"Baby Food","SalesChannel":"Offline","count":5238}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2d88"},"Region":"Middle East and North Africa","ItemType":"Baby Food","SalesChannel":"Online","count":5236}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2d89"},"Region":"Middle East and North Africa","ItemType":"Beverages","SalesChannel":"Online","count":5234}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2d8a"},"Region":"Middle East and North Africa","ItemType":"Vegetables","SalesChannel":"Offline","count":5229}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2d8b"},"Region":"Middle East and North Africa","ItemType":"Fruits","SalesChannel":"Online","count":5210}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2d8c"},"Region":"Middle East and North Africa","ItemType":"Personal Care","SalesChannel":"Online","count":5202}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2d8d"},"Region":"Middle East and North Africa","ItemType":"Clothes","SalesChannel":"Offline","count":5193}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2d8e"},"Region":"Middle East and North Africa","ItemType":"Cosmetics","SalesChannel":"Offline","count":5175}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2d8f"},"Region":"Middle East and North Africa","ItemType":"Fruits","SalesChannel":"Offline","count":5172}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2d90"},"Region":"Middle East and North Africa","ItemType":"Cosmetics","SalesChannel":"Online","count":5154}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2d91"},"Region":"Middle East and North Africa","ItemType":"Household","SalesChannel":"Offline","count":5150}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2d92"},"Region":"Middle East and North Africa","ItemType":"Vegetables","SalesChannel":"Online","count":5147}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2d93"},"Region":"Middle East and North Africa","ItemType":"Snacks","SalesChannel":"Online","count":5141}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2d94"},"Region":"Middle East and North Africa","ItemType":"Meat","SalesChannel":"Online","count":5137}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2d95"},"Region":"Middle East and North Africa","ItemType":"Personal Care","SalesChannel":"Offline","count":5133}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2d96"},"Region":"Middle East and North Africa","ItemType":"Cereal","SalesChannel":"Online","count":5130}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2d97"},"Region":"Middle East and North Africa","ItemType":"Clothes","SalesChannel":"Online","count":5129}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2d98"},"Region":"Middle East and North Africa","ItemType":"Beverages","SalesChannel":"Offline","count":5127}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2d99"},"Region":"Middle East and North Africa","ItemType":"Snacks","SalesChannel":"Offline","count":5108}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2d9a"},"Region":"Middle East and North Africa","ItemType":"Office Supplies","SalesChannel":"Online","count":5043}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2d9b"},"Region":"Central America and the Caribbean","ItemType":"Cosmetics","SalesChannel":"Offline","count":4643}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2d9c"},"Region":"Central America and the Caribbean","ItemType":"Cereal","SalesChannel":"Offline","count":4576}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2d9d"},"Region":"Central America and the Caribbean","ItemType":"Office Supplies","SalesChannel":"Offline","count":4571}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2d9e"},"Region":"Central America and the Caribbean","ItemType":"Office Supplies","SalesChannel":"Online","count":4563}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2d9f"},"Region":"Central America and the Caribbean","ItemType":"Fruits","SalesChannel":"Offline","count":4555}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2da0"},"Region":"Central America and the Caribbean","ItemType":"Fruits","SalesChannel":"Online","count":4553}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2da1"},"Region":"Central America and the Caribbean","ItemType":"Household","SalesChannel":"Offline","count":4531}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2da2"},"Region":"Central America and the Caribbean","ItemType":"Clothes","SalesChannel":"Offline","count":4529}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2da3"},"Region":"Central America and the Caribbean","ItemType":"Snacks","SalesChannel":"Offline","count":4523}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2da4"},"Region":"Central America and the Caribbean","ItemType":"Snacks","SalesChannel":"Online","count":4514}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2da5"},"Region":"Central America and the Caribbean","ItemType":"Meat","SalesChannel":"Online","count":4513}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2da6"},"Region":"Central America and the Caribbean","ItemType":"Beverages","SalesChannel":"Offline","count":4507}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2da7"},"Region":"Central America and the Caribbean","ItemType":"Personal Care","SalesChannel":"Online","count":4498}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2da8"},"Region":"Central America and the Caribbean","ItemType":"Personal Care","SalesChannel":"Offline","count":4493}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2da9"},"Region":"Central America and the Caribbean","ItemType":"Cosmetics","SalesChannel":"Online","count":4490}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2daa"},"Region":"Central America and the Caribbean","ItemType":"Beverages","SalesChannel":"Online","count":4486}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2dab"},"Region":"Central America and the Caribbean","ItemType":"Vegetables","SalesChannel":"Offline","count":4477}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2dac"},"Region":"Central America and the Caribbean","ItemType":"Baby Food","SalesChannel":"Online","count":4470}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2dad"},"Region":"Central America and the Caribbean","ItemType":"Baby Food","SalesChannel":"Offline","count":4460}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2dae"},"Region":"Central America and the Caribbean","ItemType":"Household","SalesChannel":"Online","count":4443}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2daf"},"Region":"Central America and the Caribbean","ItemType":"Clothes","SalesChannel":"Online","count":4434}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2db0"},"Region":"Central America and the Caribbean","ItemType":"Meat","SalesChannel":"Offline","count":4419}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2db1"},"Region":"Central America and the Caribbean","ItemType":"Vegetables","SalesChannel":"Online","count":4404}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2db2"},"Region":"Central America and the Caribbean","ItemType":"Cereal","SalesChannel":"Online","count":4390}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2db3"},"Region":"Australia and Oceania","ItemType":"Cosmetics","SalesChannel":"Online","count":3477}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2db4"},"Region":"Australia and Oceania","ItemType":"Personal Care","SalesChannel":"Offline","count":3466}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2db5"},"Region":"Australia and Oceania","ItemType":"Baby Food","SalesChannel":"Online","count":3433}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2db6"},"Region":"Australia and Oceania","ItemType":"Baby Food","SalesChannel":"Offline","count":3425}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2db7"},"Region":"Australia and Oceania","ItemType":"Office Supplies","SalesChannel":"Online","count":3417}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2db8"},"Region":"Australia and Oceania","ItemType":"Snacks","SalesChannel":"Offline","count":3413}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2db9"},"Region":"Australia and Oceania","ItemType":"Vegetables","SalesChannel":"Offline","count":3411}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2dba"},"Region":"Australia and Oceania","ItemType":"Snacks","SalesChannel":"Online","count":3397}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2dbb"},"Region":"Australia and Oceania","ItemType":"Meat","SalesChannel":"Online","count":3383}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2dbc"},"Region":"Australia and Oceania","ItemType":"Fruits","SalesChannel":"Online","count":3374}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2dbd"},"Region":"Australia and Oceania","ItemType":"Personal Care","SalesChannel":"Online","count":3363}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2dbe"},"Region":"Australia and Oceania","ItemType":"Cereal","SalesChannel":"Online","count":3362}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2dbf"},"Region":"Australia and Oceania","ItemType":"Meat","SalesChannel":"Offline","count":3361}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2dc0"},"Region":"Australia and Oceania","ItemType":"Cosmetics","SalesChannel":"Offline","count":3353}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2dc1"},"Region":"Australia and Oceania","ItemType":"Cereal","SalesChannel":"Offline","count":3349}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2dc2"},"Region":"Australia and Oceania","ItemType":"Beverages","SalesChannel":"Online","count":3348}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2dc3"},"Region":"Australia and Oceania","ItemType":"Household","SalesChannel":"Offline","count":3342}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2dc4"},"Region":"Australia and Oceania","ItemType":"Vegetables","SalesChannel":"Online","count":3334}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2dc5"},"Region":"Australia and Oceania","ItemType":"Household","SalesChannel":"Online","count":3328}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2dc6"},"Region":"Australia and Oceania","ItemType":"Beverages","SalesChannel":"Offline","count":3326}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2dc7"},"Region":"Australia and Oceania","ItemType":"Office Supplies","SalesChannel":"Offline","count":3307}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2dc8"},"Region":"Australia and Oceania","ItemType":"Clothes","SalesChannel":"Online","count":3303}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2dc9"},"Region":"Australia and Oceania","ItemType":"Fruits","SalesChannel":"Offline","count":3292}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2dca"},"Region":"Australia and Oceania","ItemType":"Clothes","SalesChannel":"Offline","count":3273}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2dcb"},"Region":"North America","ItemType":"Beverages","SalesChannel":"Offline","count":938}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2dcc"},"Region":"North America","ItemType":"Meat","SalesChannel":"Offline","count":937}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2dcd"},"Region":"North America","ItemType":"Cosmetics","SalesChannel":"Offline","count":933}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2dce"},"Region":"North America","ItemType":"Baby Food","SalesChannel":"Offline","count":933}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2dcf"},"Region":"North America","ItemType":"Household","SalesChannel":"Offline","count":932}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2dd0"},"Region":"North America","ItemType":"Household","SalesChannel":"Online","count":930}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2dd1"},"Region":"North America","ItemType":"Personal Care","SalesChannel":"Offline","count":930}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2dd2"},"Region":"North America","ItemType":"Office Supplies","SalesChannel":"Online","count":926}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2dd3"},"Region":"North America","ItemType":"Fruits","SalesChannel":"Online","count":920}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2dd4"},"Region":"North America","ItemType":"Personal Care","SalesChannel":"Online","count":919}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2dd5"},"Region":"North America","ItemType":"Vegetables","SalesChannel":"Offline","count":913}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2dd6"},"Region":"North America","ItemType":"Snacks","SalesChannel":"Online","count":908}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2dd7"},"Region":"North America","ItemType":"Vegetables","SalesChannel":"Online","count":904}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2dd8"},"Region":"North America","ItemType":"Fruits","SalesChannel":"Offline","count":901}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2dd9"},"Region":"North America","ItemType":"Snacks","SalesChannel":"Offline","count":899}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2dda"},"Region":"North America","ItemType":"Clothes","SalesChannel":"Online","count":892}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2ddb"},"Region":"North America","ItemType":"Cosmetics","SalesChannel":"Online","count":889}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2ddc"},"Region":"North America","ItemType":"Cereal","SalesChannel":"Online","count":888}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2ddd"},"Region":"North America","ItemType":"Clothes","SalesChannel":"Offline","count":888}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2dde"},"Region":"North America","ItemType":"Cereal","SalesChannel":"Offline","count":886}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2ddf"},"Region":"North America","ItemType":"Office Supplies","SalesChannel":"Offline","count":885}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2de0"},"Region":"North America","ItemType":"Beverages","SalesChannel":"Online","count":882}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2de1"},"Region":"North America","ItemType":"Meat","SalesChannel":"Online","count":881}
+{"_id":{"$oid":"5ff5e9f68bbbba12019d2de2"},"Region":"North America","ItemType":"Baby Food","SalesChannel":"Online","count":857}
